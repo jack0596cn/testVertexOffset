@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5301F1BD-4DC8-3F41-F0E6-009E6D78D6C9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "testVertexOffset",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
